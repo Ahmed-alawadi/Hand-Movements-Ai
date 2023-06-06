@@ -1,4 +1,4 @@
-# Hand-Movements-Ai
+
 # Hand Detection using Python and OpenCV
 
 This project uses Python and the OpenCV library to detect hand movements.
